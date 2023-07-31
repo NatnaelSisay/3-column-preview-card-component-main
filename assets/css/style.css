@@ -99,13 +99,12 @@ a {
 	padding: 1rem 3rem;
 	border-radius: 100vw;
 
-	border: 3px solid var(--bg-color);
 	transition: background-color, color 0.3s ease-in;
 }
 
 .btn:is(:hover, :focus) {
 	background-color: var(--bg-color);
-	border-color: var(--clr-neutral-1);
+	outline: 3px solid var(--clr-neutral-1);
 	color: white;
 }
 
