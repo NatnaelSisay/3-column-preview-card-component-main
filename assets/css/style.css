@@ -92,7 +92,7 @@ a {
 }
 
 .btn {
-	background-color: var(--clr-neutral-1);
+	background-color: var(--clr-neutral-2);
 	color: var(--bg-color);
 	justify-self: start;
 
